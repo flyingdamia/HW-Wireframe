@@ -1,0 +1,91 @@
+body {
+    width: 960px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    color:gray;
+    background:gray;
+  }
+  
+
+
+  header {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+  }
+
+
+
+  nav {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+  }
+
+
+
+  section {
+    display: block;
+    text-align: center;
+    float: left;
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+    overflow: hidden;  
+  }
+
+
+
+  aside {
+    display: block;
+    float: right;
+    text-align: center;
+    width: 360px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+    overflow: hidden;
+  }
+
+
+  
+  article {
+    padding: 10px;
+    color: white;
+    background: gray;
+  }
+  
+
+
+  .clear {
+    clear: both;
+  }
+  
+
+
+  p {
+    text-align: center;
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    color: gray;
+    background: white; 
+  }
+  
+
+
+  footer {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+  }
